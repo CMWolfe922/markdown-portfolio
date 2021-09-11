@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# My Name 
+### Charles Wolfe 
+##### This is my markdown-portfolio tutorial
